@@ -1,39 +1,44 @@
-# Module 1: Introduction to Technology
+# Lesson 1.1: Understanding Hardware and Software
 
-Welcome to Module 1 of the Introduction to Technology and Cybersecurity Course. This module is designed as the first step for individuals transitioning into the field of cybersecurity, focusing on the basics of technology.
+Welcome to Lesson 1.1 of Module 1 in the Introduction to Technology and Cybersecurity Course. This lesson is a foundational crash course into the basic components of computer hardware and software concepts.
 
-## Objectives
-- Understand the key components of computer hardware.
-- Gain a foundational understanding of computer software.
-- Learn the basics of networking and how the internet works.
-- Get introduced to the fundamentals of programming and web technologies.
+## Lesson Objectives
+- To identify and understand the key components of computer hardware.
+- To comprehend the basic concepts and types of software.
+- To recognize the interrelationship between hardware and software.
 
-## Lessons Overview
-1. **Basics of Computing**
-   - **Lesson 1.1**: Understanding Hardware and Software
-   - **Lesson 1.2**: Operating Systems Overview
-   - **Lesson 1.3**: Basic Computer Maintenance and Troubleshooting
-2. **Introduction to Networking**
-   - **Lesson 2.1**: Understanding Internet Basics
-   - **Lesson 2.2**: Introduction to LAN, WAN, and Wireless Networks
-   - **Lesson 2.3**: Basic Networking Concepts (IP Addressing, DNS, DHCP)
-3. **Fundamentals of Programming**
-   - **Lesson 3.1**: Introduction to Programming Concepts
-   - **Lesson 3.2**: Basics of a Programming Language (Python)
-4. **Web Technologies**
-   - **Lesson 4.1**: Understanding How the Web Works
-   - **Lesson 4.2**: Basic HTML and CSS
+## Crash Course Content
 
-## Assignments and Quizzes
-- Each lesson includes quizzes to test your understanding.
-- Hands-on assignments are provided to apply the learning practically.
+### Introduction to Computer Hardware
+Computer hardware is the physical part of a computer, including the digital circuitry. As an introduction, we'll focus on the core components:
+
+- **CPU (Central Processing Unit)**: Often referred to as the brain of the computer, it handles instructions and processes data from software.
+- **RAM (Random Access Memory)**: This is the short-term memory of a computer, where data is stored for quick access while the machine is running.
+- **Storage (Hard Drives and SSDs)**: Devices for long-term data storage. Hard drives are older and slower compared to solid-state drives (SSDs), which are faster and more reliable.
+- **Motherboard**: The main circuit board that connects all components of the computer, allowing them to communicate with each other.
+- **Power Supply**: Converts electricity from your wall outlet into a form that the computer can use.
+- **Peripherals**: Devices like the monitor, keyboard, and mouse that allow interaction with the computer.
+
+### Introduction to Computer Software
+Software refers to the set of instructions that tells the hardware what to do. It is the non-tangible component of computers. Software can be broadly categorized into:
+
+- **System Software**: This includes operating systems like Windows, macOS, or Linux, which manage the hardware and create an environment for other software to run.
+- **Application Software**: These are programs that perform specific tasks for users, such as word processors, web browsers, and email clients.
+
+### The Relationship Between Hardware and Software
+- Computers operate on the basis of the IPOS (Input-Process-Output-Storage) cycle. Hardware components perform input, output, and storage functions, while software provides the processing logic.
+- Understanding how hardware and software interact is crucial for troubleshooting and optimizing computer performance.
+
+## Activities and Assignments
+- **Activity 1**: Identify the hardware components in a computer diagram.
+- **Activity 2**: List and categorize five software applications you commonly use.
+- **Assignment 1**: Write a short essay explaining the function of the CPU in a computer system.
 
 ## Resources
-- Recommended textbooks, online tutorials, and reference materials may be listed within each lesson.
-- External resources such as videos, articles, and forums may also provided.
+- [Basic Computer Hardware: TikTok 🎥](https://www.tiktok.com/t/ZPRcqN4xS/)
+- [Recommended textbook sections for further reading]
 
 ## Getting Started
-- Start with Lesson 1.1 and progress through the lessons in order.
-- Engage with practical assignments and quizzes to reinforce learning.
-- Participate in online groups and forums
-for beginners in tech. 
+- Begin by exploring the hardware components of a computer.
+- Watch the videos linked in the resources section to gain a visual understanding of the concepts.
+- Complete the activities and assignment to reinforce your learning.
