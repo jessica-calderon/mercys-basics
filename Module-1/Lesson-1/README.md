@@ -43,7 +43,7 @@ Software refers to the set of instructions that tells the hardware what to do. I
 
 <img src='/Module-1/Lesson-1/assets/IMG_2.png'>
 
-<img src='/Module-1/Lesson-1/assers/IMG_3.png'>
+<img src='/Module-1/Lesson-1/assets/IMG_3.png'>
 
 
 ## Getting Started
