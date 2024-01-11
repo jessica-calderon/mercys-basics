@@ -37,8 +37,9 @@ Software refers to the set of instructions that tells the hardware what to do. I
 ## Resources
 - [Basic Computer Hardware: TikTok 🎥](https://www.tiktok.com/t/ZPRcqN4xS/)
 - [What is Computer Software: TikTok🎥](https://www.tiktok.com/t/ZPRcVc7NW/)
-- [Hardware vs. Software](https://www.educative.io/blog/hardware-vs-software-components-computer)
+- [Hardware vs. Software: Quick Read](https://www.educative.io/blog/hardware-vs-software-components-computer)
 
+## Diagrams 
 <img src='/Module-1/Lesson-1/assets/IMG_1.png'>
 
 <img src='/Module-1/Lesson-1/assets/IMG_2.png'>
