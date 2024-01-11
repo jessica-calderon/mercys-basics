@@ -29,4 +29,7 @@ The goal of this course is to prep you with the basic technical skills and knowl
 
 
 ## Support
-- If you have any questions or need help, message me. 
+- If you have any questions or need help, message me.
+
+## Notes
+<i>[What is a ReadME?](https://en.m.wikipedia.org/wiki/README)</i>
